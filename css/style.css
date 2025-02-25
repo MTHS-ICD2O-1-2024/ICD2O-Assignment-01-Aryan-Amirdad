@@ -2,3 +2,32 @@
 * Created on: Sep 2020
 * This file contains the CSS for index.html
 */
+
+style > body {
+  background-color: #f9f9f9;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 2.5em;
+  color: #1976d2;
+}
+
+h2 {
+  font-size: 2em;
+  color: #333;
+}
+
+p {
+  font-size: 1.2em;
+  line-height: 1.6;
+}
+
+.quote {
+  font-size: 1.5em;
+  font-style: italic;
+  color: #333;
+  text-align: center;
+  margin: 20px 0;
+}
