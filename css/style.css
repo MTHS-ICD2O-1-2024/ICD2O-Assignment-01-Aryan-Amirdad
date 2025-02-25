@@ -31,3 +31,8 @@ p {
   text-align: center;
   margin: 20px 0;
 }
+img {
+  width: 50% !important;
+  /* Forces the width to be 50% */
+  height: auto !important;
+}
